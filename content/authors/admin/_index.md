@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Бембо Жозе Лумингу
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Bembo Jose Lumingu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Bembo Lumingu
+last_name: Jose
 
 # Status emoji
 status:
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Студент
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Российский университет дружбы нарадов
+    url: https://www.rudn.ru/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:bembolumingujose@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -47,82 +47,33 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Програмирование
+  - Linux
+  - Киберзопасность
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: Студент
+    institution: РУДН
+    date: 2024
+    
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
+  - block: features
+    content:
+    title: skills
+    item:
       - name: Python
-        description: ''
-        percent: 80
+        description: 90
+        percent: 70
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: C++
+        description: 100
+        percent: 80
         icon: chart-bar
-      - name: SQL
+      - name: Data bases
         description: ''
-        percent: 40
+        percent: 50
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -144,9 +95,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Lingala
     percent: 75
-  - name: Portuguese
+  - name: French
     percent: 25
 
 # Awards.
@@ -183,4 +134,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Бембо лумингу жозе - Студент Российского университет дружбы нарадов. В его входит прогамирование (C++, Java, Kotlin, Rust), Linux b киберзопасность в особенности криптография и стеганография). Работал над проектами, направленными на реабилитацию людей с ограниченными возможностями здоровья по зрению 
